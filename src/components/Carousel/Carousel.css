@@ -1,0 +1,21 @@
+.carousel{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#slider{
+   
+        width: 2000px;
+        height: 80px;      
+        background-image: url('../../sources/slideCompleto.png');
+        background-size: 100% 100%;
+        animation: slider 20s infinite linear;
+
+}
+
+@keyframes slider {
+    to{
+        background-position: 2000px
+    }
+}

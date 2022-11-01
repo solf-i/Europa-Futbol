@@ -1,0 +1,17 @@
+.background{
+    background-image:url('../../sources/entrenamiento.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.borde{
+    background: rgba(243, 247, 246, 0.8);
+    margin: .5rem;
+    width: 70vmax;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+.borde p{
+    font-size: 1.3rem;
+}

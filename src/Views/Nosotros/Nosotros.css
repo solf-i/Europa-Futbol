@@ -1,0 +1,11 @@
+.section{
+    background-image: url('../../sources/soccer-ball.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.contenido{
+    width: 80vmax;
+    margin: auto;
+}
