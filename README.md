@@ -1,5 +1,44 @@
-<<<<<<< HEAD
-# Europa-Futbol
+
+## Europa-Futbol
+
+Este proyecto fue desarrollado a pedido de un particular.
+
+## Librerías utilizadas
+
+Mdbreact
+react-bootstrap
+scroll magic
+react-reveal
+
+
+## Dependencias
+ "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.1.3",
+    "mdbreact": "^5.2.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.1.0",
+    "react-dom": "^17.0.2",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "react-whatsapp": "^0.2.1",
+    "scrollmagic": "^2.0.8",
+    "web-vitals": "^2.1.3"
+
+## Vista previa de la web:
+
+https://drive.google.com/file/d/1new8oEBGAEoO3pfgZQp07B76UufeNtvd/view?usp=share_link
+
+
+
+Construido con 🛠️ HTML5 CSS3 Bootstrap SASS JAVASCRIPT REACT
+
+Autores ✒️ Sol Ferri
+
+
+
 =======
 # Getting Started with Create React App
 
