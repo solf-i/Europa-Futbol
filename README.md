@@ -27,16 +27,14 @@ react-reveal
     "scrollmagic": "^2.0.8",
     "web-vitals": "^2.1.3"
 
-## Vista previa de la web:
 
-https://drive.google.com/file/d/1new8oEBGAEoO3pfgZQp07B76UufeNtvd/view?usp=share_link
+## Construido con 🛠️ HTML5 CSS3 Bootstrap SASS JAVASCRIPT REACT
 
+## Autor ✒️ Sol Ferri
 
+## Vista previa:
 
-Construido con 🛠️ HTML5 CSS3 Bootstrap SASS JAVASCRIPT REACT
-
-Autores ✒️ Sol Ferri
-
+![Europa Fútbol](https://user-images.githubusercontent.com/82688865/199359681-39e7a88d-5ca3-4cf9-b41b-8dc6ef4586f6.gif)
 
 
 =======
